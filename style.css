@@ -1,14 +1,14 @@
 body {
-  font-family: sans-serif;
+  font-family: monserrat;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
+  background: #355E58;
   color: #333;
 }
 
 header {
-  background: #0077cc;
-  color: white;
+  background: #053229;
+  color: #CFB97E;
   padding: 20px;
   text-align: center;
 }
